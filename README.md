@@ -1,30 +1,23 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I have used C++ in the past but I have not been able to use it for a couple years. I made this little demo to get me back into using c++ and making sure my skills are still intact. It is a simple little program that does not do anything in particular, but it uses various foundations of c++. These include: variables, expressions, conditionals, loops, classes, functions and such. I am happy with where it is going. 
 
-{Provide a description the software that you wrote to demonstrate the C++ language.}
 
-{Describe your purpose for writing this software.}
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/YWc-YHWW8Yc)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+Replit
+C++
+Vectors
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [GeeksForGeeks](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
+* [W3Schools](https://www.w3schools.com/cpp/cpp_classes.asp)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+Add something where it can read and write to a file, that is a useful attribute to have. 
